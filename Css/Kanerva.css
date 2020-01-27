@@ -1,0 +1,28 @@
+
+
+.body{
+    background-color: black;
+    color: white;
+
+}
+
+.header
+{
+    text-align: left;
+
+}
+
+.navbar
+{
+    color: white;
+}
+.container-fluid{
+    padding: 40%;
+}
+
+.col-8
+{
+    color: white;
+    float: right;
+    max-width: 100%;
+}
