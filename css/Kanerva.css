@@ -20,7 +20,8 @@
     padding: 20%;
 }
 .img-responsive{
-    max-width: 70%;
+    min-width: 30;
+    max-width: 50%;
 }
 .col-8
 {
